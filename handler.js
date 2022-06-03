@@ -32,9 +32,9 @@ module.exports = {
         global.author = global.data.owner
         //global.author = 'The.sad.boy01'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' ву 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
-        global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+        global.wm = namabot + ' 𝗕𝘆 𝗔𝗹𝗽𝗶𝗻'
+        global.colong1 = 'Follow'
+        global.colong2 = 'En4y.Pin 😱🤙'
         global.kontak2 = [
         ['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'drakblue3@gmail.com', true],
         ['6285157436653', 'Raxcel-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true]
